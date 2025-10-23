@@ -28,8 +28,8 @@
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
 </a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/expo/expo/main/docs/public/static/favicons/android-chrome-192x192.png" alt="expo" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/expo.svg" alt="expo" width="40" height="40"/>
+</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
